@@ -1,0 +1,284 @@
+[
+  {
+    "idOVC1": "OVC-001",
+    "idOVC2": "OVC-002",
+    "nombreRelacion": "Complementa",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-003",
+    "idOVC2": "OVC-005",
+    "nombreRelacion": "Influye en",
+    "Direccion": "OVC-003 a OVC-005"
+  },
+  {
+    "idOVC1": "OVC-004",
+    "idOVC2": "OVC-001",
+    "nombreRelacion": "Contrasta con",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-002",
+    "idOVC2": "OVC-003",
+    "nombreRelacion": "Precede a",
+    "Direccion": "OVC-002 a OVC-003"
+  },
+  {
+    "idOVC1": "OVC-005",
+    "idOVC2": "OVC-004",
+    "nombreRelacion": "Deriva de",
+    "Direccion": "OVC-005 a OVC-004"
+  },
+  {
+    "idOVC1": "OVC-006",
+    "idOVC2": "OVC-008",
+    "nombreRelacion": "Inspira a",
+    "Direccion": "OVC-006 a OVC-008"
+  },
+  {
+    "idOVC1": "OVC-007",
+    "idOVC2": "OVC-005",
+    "nombreRelacion": "Se conecta con",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-009",
+    "idOVC2": "OVC-012",
+    "nombreRelacion": "Relacionado temáticamente",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-010",
+    "idOVC2": "OVC-013",
+    "nombreRelacion": "Comparte materialidad",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-011",
+    "idOVC2": "OVC-001",
+    "nombreRelacion": "Presenta similitudes formales",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-014",
+    "idOVC2": "OVC-002",
+    "nombreRelacion": "Explora conceptos similares",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-015",
+    "idOVC2": "OVC-003",
+    "nombreRelacion": "Aborda temas sociales",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-016",
+    "idOVC2": "OVC-011",
+    "nombreRelacion": "Resuena con",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-017",
+    "idOVC2": "OVC-008",
+    "nombreRelacion": "Usa tecnología similar",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-018",
+    "idOVC2": "OVC-002",
+    "nombreRelacion": "Involucra movimiento",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-019",
+    "idOVC2": "OVC-006",
+    "nombreRelacion": "Crea mundos",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-020",
+    "idOVC2": "OVC-003",
+    "nombreRelacion": "Es una performance",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-021",
+    "idOVC2": "OVC-006",
+    "nombreRelacion": "Representa entornos",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-022",
+    "idOVC2": "OVC-005",
+    "nombreRelacion": "Es interactiva",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-023",
+    "idOVC2": "OVC-017",
+    "nombreRelacion": "Utiliza IA",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-024",
+    "idOVC2": "OVC-008",
+    "nombreRelacion": "Explora la memoria",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-025",
+    "idOVC2": "OVC-012",
+    "nombreRelacion": "Se enfoca en el sonido",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-026",
+    "idOVC2": "OVC-010",
+    "nombreRelacion": "Utiliza textiles",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-027",
+    "idOVC2": "OVC-007",
+    "nombreRelacion": "Relacionado con la naturaleza",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-028",
+    "idOVC2": "OVC-006",
+    "nombreRelacion": "Es fotografía urbana",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-029",
+    "idOVC2": "OVC-015",
+    "nombreRelacion": "Tiene formato de libro",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-030",
+    "idOVC2": "OVC-014",
+    "nombreRelacion": "Usa proyección",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-031",
+    "idOVC2": "OVC-010",
+    "nombreRelacion": "Implica hilos",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-032",
+    "idOVC2": "OVC-001",
+    "nombreRelacion": "Es una escultura",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-033",
+    "idOVC2": "OVC-004",
+    "nombreRelacion": "Es una pintura abstracta",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-034",
+    "idOVC2": "OVC-020",
+    "nombreRelacion": "Implica la danza",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-035",
+    "idOVC2": "OVC-001",
+    "nombreRelacion": "Tiene formas orgánicas",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-036",
+    "idOVC2": "OVC-002",
+    "nombreRelacion": "Usa luz",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-037",
+    "idOVC2": "OVC-015",
+    "nombreRelacion": "Utiliza objetos encontrados",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-038",
+    "idOVC2": "OVC-009",
+    "nombreRelacion": "Es una composición musical",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-039",
+    "idOVC2": "OVC-004",
+    "nombreRelacion": "Es una pintura",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-040",
+    "idOVC2": "OVC-008",
+    "nombreRelacion": "Explora el tiempo",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-041",
+    "idOVC2": "OVC-007",
+    "nombreRelacion": "Usa elementos naturales",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-042",
+    "idOVC2": "OVC-011",
+    "nombreRelacion": "Es un dibujo",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-043",
+    "idOVC2": "OVC-006",
+    "nombreRelacion": "Es fotografía",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-044",
+    "idOVC2": "OVC-027",
+    "nombreRelacion": "Es land art",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-045",
+    "idOVC2": "OVC-026",
+    "nombreRelacion": "Es una instalación",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-046",
+    "idOVC2": "OVC-022",
+    "nombreRelacion": "Es interactiva",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-047",
+    "idOVC2": "OVC-013",
+    "nombreRelacion": "Es una escultura",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-048",
+    "idOVC2": "OVC-025",
+    "nombreRelacion": "Se enfoca en el sonido",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-049",
+    "idOVC2": "OVC-043",
+    "nombreRelacion": "Es fotografía abstracta",
+    "Direccion": "Bidireccional"
+  },
+  {
+    "idOVC1": "OVC-050",
+    "idOVC2": "OVC-014",
+    "nombreRelacion": "Es una video instalación",
+    "Direccion": "Bidireccional"
+  }
+]
