@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Detalle OVC - Universidad de Antioquia</title>
 
-  <!-- Tipografía Roboto de Google Fonts -->
+  <!-- Tipografía Roboto -->
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
 
   <style>
@@ -56,3 +56,56 @@
       display: block;
       border: 1px solid #ccc;
     }
+
+    h2 {
+      color: var(--verde-udea);
+      margin-top: 2rem;
+    }
+
+    .relation {
+      margin: 0.5rem 0;
+    }
+
+    .relation a {
+      color: var(--verde-udea);
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .label {
+      font-weight: bold;
+      display: inline-block;
+      width: 130px;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.85rem;
+      color: #777;
+      margin: 3rem 0 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 id="nombre">Cargando...</h1>
+  </header>
+
+  <main>
+    <img id="imagen" src="" alt="Imagen de la obra" />
+    <p><span class="label">Autores:</span> <span id="autores"></span></p>
+    <p><span class="label">Categoría:</span> <span id="categoria"></span></p>
+    <p><span class="label">Descripción:</span> <span id="descripcion"></span></p>
+
+    <h2>Relaciones con otras obras</h2>
+    <div id="relaciones">Cargando relaciones...</div>
+  </main>
+
+  <footer>
+    Visualizador de OVC
+  </footer>
+
+  <!-- ✅ El script debe ir justo antes de cerrar el <body> -->
+  <script src="js/main.js"></script>
+</body>
+</html>
