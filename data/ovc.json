@@ -1,0 +1,502 @@
+[
+  {
+    "id": "OVC-001",
+    "nombre": "Ecos del Silencio",
+    "autores": ["Ana López", "Carlos Ruiz"],
+    "categoria": "Escultura e Instalación",
+    "descripcion": "Una serie de esculturas etéreas que exploran la ausencia y la memoria.",
+    "imagen": "https://picsum.photos/400/300?random=1",
+    "x": 150.7,
+    "y": 230.1
+  },
+  {
+    "id": "OVC-002",
+    "nombre": "La Danza de las Sombras",
+    "autores": ["Miguel Santos"],
+    "categoria": "Escultura e Instalación",
+    "descripcion": "Un juego dinámico de luces y sombras que transforma el espacio.",
+    "imagen": "https://picsum.photos/400/300?random=2",
+    "x": 320.5,
+    "y": 180.9
+  },
+  {
+    "id": "OVC-003",
+    "nombre": "El Jardín Susurrante",
+    "autores": ["Laura Giménez", "Pedro Vidal"],
+    "categoria": "Performance y Danza",
+    "descripcion": "Una experiencia inmersiva que combina sonido, movimiento y elementos naturales.",
+    "imagen": "https://picsum.photos/400/300?random=3",
+    "x": 80.2,
+    "y": 450.6
+  },
+  {
+    "id": "OVC-004",
+    "nombre": "Fragmentos del Tiempo",
+    "autores": ["Elena Costa"],
+    "categoria": "Arte Digital y Medios",
+    "descripcion": "Obras digitales que capturan la fugacidad del tiempo a través de capas abstractas.",
+    "imagen": "https://picsum.photos/400/300?random=4",
+    "x": 500.0,
+    "y": 90.3
+  },
+  {
+    "id": "OVC-005",
+    "nombre": "Respiración Colectiva",
+    "autores": ["Grupo Anónimo"],
+    "categoria": "Arte Sonoro y Musical",
+    "descripcion": "Una pieza colaborativa que explora la interacción de sonidos urbanos y naturales.",
+    "imagen": "https://picsum.photos/400/300?random=5",
+    "x": 210.8,
+    "y": 300.0
+  },
+  {
+    "id": "OVC-006",
+    "nombre": "Ciudades Invisibles",
+    "autores": ["Javier Molina"],
+    "categoria": "Fotografía",
+    "descripcion": "Imágenes que evocan urbes ficticias y sus atmósferas.",
+    "imagen": "https://picsum.photos/400/300?random=6",
+    "x": 410.2,
+    "y": 120.7
+  },
+  {
+    "id": "OVC-007",
+    "nombre": "El Fluir del Carbono",
+    "autores": ["Sofía Vargas"],
+    "categoria": "Escultura e Instalación",
+    "descripcion": "Instalación que utiliza organismos vivos para representar ciclos naturales.",
+    "imagen": "https://picsum.photos/400/300?random=7",
+    "x": 70.1,
+    "y": 380.5
+  },
+  {
+    "id": "OVC-008",
+    "nombre": "Memoria en Línea",
+    "autores": ["Roberto Castro"],
+    "categoria": "Arte Digital y Medios",
+    "descripcion": "Proyecto interactivo que recolecta y visualiza recuerdos digitales.",
+    "imagen": "https://picsum.photos/400/300?random=8",
+    "x": 290.3,
+    "y": 60.2
+  },
+  {
+    "id": "OVC-009",
+    "nombre": "Sinfonía del Azar",
+    "autores": ["Martín Herrera", "Valeria Soto"],
+    "categoria": "Arte Sonoro y Musical",
+    "descripcion": "Composición musical creada por algoritmos aleatorios.",
+    "imagen": "https://picsum.photos/400/300?random=9",
+    "x": 180.6,
+    "y": 510.8
+  },
+  {
+    "id": "OVC-010",
+    "nombre": "Texturas Olvidadas",
+    "autores": ["Isabel Durán"],
+    "categoria": "Pintura y Dibujo",
+    "descripcion": "Obras que reinterpretan técnicas textiles antiguas con materiales modernos.",
+    "imagen": "https://picsum.photos/400/300?random=10",
+    "x": 350.9,
+    "y": 280.4
+  },
+  {
+    "id": "OVC-011",
+    "nombre": "Geometrías del Silencio",
+    "autores": ["Felipe Salas"],
+    "categoria": "Pintura y Dibujo",
+    "descripcion": "Exploración de formas geométricas y su interacción con el espacio vacío.",
+    "imagen": "https://picsum.photos/400/300?random=11",
+    "x": 480.0,
+    "y": 150.0
+  },
+  {
+    "id": "OVC-012",
+    "nombre": "Voces del Viento",
+    "autores": ["Daniela Pérez", "Ricardo Navarro"],
+    "categoria": "Escultura e Instalación",
+    "descripcion": "Sonidos capturados del viento en diferentes latitudes, transformados artísticamente.",
+    "imagen": "https://picsum.photos/400/300?random=12",
+    "x": 100.5,
+    "y": 420.9
+  },
+  {
+    "id": "OVC-013",
+    "nombre": "El Telar de los Sueños",
+    "autores": ["Carmen Vargas"],
+    "categoria": "Escultura e Instalación",
+    "descripcion": "Obras esculturales hechas con telas y rellenos, evocando formas oníricas.",
+    "imagen": "https://picsum.photos/400/300?random=13",
+    "x": 260.4,
+    "y": 350.2
+  },
+  {
+    "id": "OVC-014",
+    "nombre": "Patrones Resonantes",
+    "autores": ["Diego Ríos"],
+    "categoria": "Arte Digital y Medios",
+    "descripcion": "Video instalaciones que exploran la repetición y la variación de patrones visuales y sonoros.",
+    "imagen": "https://picsum.photos/400/300?random=14",
+    "x": 390.1,
+    "y": 70.8
+  },
+  {
+    "id": "OVC-015",
+    "nombre": "Huellas de la Migración",
+    "autores": ["Colectivo Sin Fronteras"],
+    "categoria": "Arte Social y Participativo",
+    "descripcion": "Proyecto participativo que visibiliza las historias de migrantes.",
+    "imagen": "https://picsum.photos/400/300?random=15",
+    "x": 60.9,
+    "y": 200.3
+  },
+  {
+    "id": "OVC-016",
+    "nombre": "Arquitecturas Líquidas",
+    "autores": ["Andrea Guzmán"],
+    "categoria": "Pintura y Dibujo",
+    "descripcion": "Abstracciones que simulan estructuras arquitectónicas en estado fluido.",
+    "imagen": "https://picsum.photos/400/300?random=16",
+    "x": 520.3,
+    "y": 240.6
+  },
+  {
+    "id": "OVC-017",
+    "nombre": "El Oráculo del Dato",
+    "autores": ["Pablo Iglesias"],
+    "categoria": "Arte Digital y Medios",
+    "descripcion": "Visualización artística de grandes conjuntos de datos para revelar patrones ocultos.",
+    "imagen": "https://picsum.photos/400/300?random=17",
+    "x": 140.0,
+    "y": 110.5
+  },
+  {
+    "id": "OVC-018",
+    "nombre": "Juegos de Gravedad",
+    "autores": ["Nuria Montes"],
+    "categoria": "Escultura e Instalación",
+    "descripcion": "Esculturas que se mueven y transforman con el viento o la interacción del público.",
+    "imagen": "https://picsum.photos/400/300?random=18",
+    "x": 230.7,
+    "y": 470.1
+  },
+  {
+    "id": "OVC-019",
+    "nombre": "Paisajes Mentales",
+    "autores": ["Jorge Romero"],
+    "categoria": "Arte Digital y Medios",
+    "descripcion": "Experiencias inmersivas de paisajes generados a partir de pensamientos y emociones.",
+    "imagen": "https://picsum.photos/400/300?random=19",
+    "x": 310.2,
+    "y": 330.9
+  },
+  {
+    "id": "OVC-020",
+    "nombre": "Ritmos Ocultos",
+    "autores": ["Silvia Mora"],
+    "categoria": "Performance y Danza",
+    "descripcion": "Coreografías que exploran ritmos subyacentes en la vida cotidiana.",
+    "imagen": "https://picsum.photos/400/300?random=20",
+    "x": 450.8,
+    "y": 190.4
+  },
+  {
+    "id": "OVC-021",
+    "nombre": "Microcosmos Urbano",
+    "autores": ["Luis Pérez"],
+    "categoria": "Escultura e Instalación",
+    "descripcion": "Dioramas detallados que recrean escenas urbanas a pequeña escala.",
+    "imagen": "https://picsum.photos/400/300?random=21",
+    "x": 90.6,
+    "y": 270.8
+  },
+  {
+    "id": "OVC-022",
+    "nombre": "Ecos de la Memoria",
+    "autores": ["Clara Delgado"],
+    "categoria": "Escultura e Instalación",
+    "descripcion": "Una instalación que reacciona a la presencia del espectador, activando sonidos y luces.",
+    "imagen": "https://picsum.photos/400/300?random=22",
+    "x": 170.5,
+    "y": 390.2
+  },
+  {
+    "id": "OVC-023",
+    "nombre": "El Alma de las Máquinas",
+    "autores": ["Sergio Vidal"],
+    "categoria": "Arte Digital y Medios",
+    "descripcion": "Creaciones robóticas que expresan emociones o realizan acciones artísticas.",
+    "imagen": "https://picsum.photos/400/300?random=23",
+    "x": 280.0,
+    "y": 130.6
+  },
+  {
+    "id": "OVC-024",
+    "nombre": "Cartografías del Sentimiento",
+    "autores": ["Adriana Soto"],
+    "categoria": "Pintura y Dibujo",
+    "descripcion": "Mapas que representan emociones y experiencias personales en lugares específicos.",
+    "imagen": "https://picsum.photos/400/300?random=24",
+    "x": 360.3,
+    "y": 420.0
+  },
+  {
+    "id": "OVC-025",
+    "nombre": "Sonidos del Vacío",
+    "autores": ["Enrique Garcí­a"],
+    "categoria": "Arte Sonoro y Musical",
+    "descripcion": "Grabaciones de ambientes silenciosos, resaltando los sonidos imperceptibles.",
+    "imagen": "https://picsum.photos/400/300?random=25",
+    "x": 40.8,
+    "y": 310.7
+  },
+  {
+    "id": "OVC-026",
+    "nombre": "El Velo Transparente",
+    "autores": ["Gisela Flores"],
+    "categoria": "Escultura e Instalación",
+    "descripcion": "Capas de tela translúcida que crean efectos visuales de profundidad y misterio.",
+    "imagen": "https://picsum.photos/400/300?random=26",
+    "x": 510.1,
+    "y": 70.0
+  },
+  {
+    "id": "OVC-027",
+    "nombre": "Crónicas de la Erosión",
+    "autores": ["Ramón Ortiz"],
+    "categoria": "Arte Social y Participativo",
+    "descripcion": "Obras que utilizan elementos naturales y procesos de deterioro como parte de la creación.",
+    "imagen": "https://picsum.photos/400/300?random=27",
+    "x": 120.4,
+    "y": 500.5
+  },
+  {
+    "id": "OVC-028",
+    "nombre": "Reflejos Urbanos",
+    "autores": ["Cristina Bravo"],
+    "categoria": "Fotografía",
+    "descripcion": "Fotografías que capturan los reflejos de la ciudad en cristales y superficies.",
+    "imagen": "https://picsum.photos/400/300?random=28",
+    "x": 200.9,
+    "y": 50.9
+  },
+  {
+    "id": "OVC-029",
+    "nombre": "La Biblioteca de los Sueños",
+    "autores": ["Daniel Alonso"],
+    "categoria": "Arte Social y Participativo",
+    "descripcion": "Libros que son obras de arte en sí mismos, con formatos y contenidos experimentales.",
+    "imagen": "https://picsum.photos/400/300?random=29",
+    "x": 300.0,
+    "y": 250.0
+  },
+  {
+    "id": "OVC-030",
+    "nombre": "Pulso Global",
+    "autores": ["Mónica Romero"],
+    "categoria": "Arte Digital y Medios",
+    "descripcion": "Proyecciones de video sobre edificios o superficies, creando ilusiones ópticas.",
+    "imagen": "https://picsum.photos/400/300?random=30",
+    "x": 430.7,
+    "y": 370.3
+  },
+  {
+    "id": "OVC-031",
+    "nombre": "Tejidos del Tiempo",
+    "autores": ["Natalia Castro"],
+    "categoria": "Escultura e Instalación",
+    "descripcion": "Obras tridimensionales creadas con hilos tensados, formando redes y volúmenes.",
+    "imagen": "https://picsum.photos/400/300?random=31",
+    "x": 60.0,
+    "y": 160.2
+  },
+  {
+    "id": "OVC-032",
+    "nombre": "La Resistencia del Papel",
+    "autores": ["Fernando Ruiz"],
+    "categoria": "Escultura e Instalación",
+    "descripcion": "Esculturas complejas y detalladas creadas a partir de plegado de papel.",
+    "imagen": "https://picsum.photos/400/300?random=32",
+    "x": 190.5,
+    "y": 440.8
+  },
+  {
+    "id": "OVC-033",
+    "nombre": "Caminos de Agua",
+    "autores": ["Sara Blasco"],
+    "categoria": "Pintura y Dibujo",
+    "descripcion": "Pinturas en acuarela que exploran la fluidez y la transparencia del medio.",
+    "imagen": "https://picsum.photos/400/300?random=33",
+    "x": 270.8,
+    "y": 80.1
+  },
+  {
+    "id": "OVC-034",
+    "nombre": "Rituales Cotidianos",
+    "autores": ["Leo Torres"],
+    "categoria": "Performance y Danza",
+    "descripcion": "Performances que se basan en la observación y repetición de acciones diarias.",
+    "imagen": "https://picsum.photos/400/300?random=34",
+    "x": 380.2,
+    "y": 220.6
+  },
+  {
+    "id": "OVC-035",
+    "nombre": "El Eco de las Formas",
+    "autores": ["Paula Díaz"],
+    "categoria": "Escultura e Instalación",
+    "descripcion": "Obras cerámicas que reinterpretan formas orgánicas y geométricas.",
+    "imagen": "https://picsum.photos/400/300?random=35",
+    "x": 500.9,
+    "y": 300.5
+  },
+  {
+    "id": "OVC-036",
+    "nombre": "Luces en la Oscuridad",
+    "autores": ["Gonzalo Merino"],
+    "categoria": "Escultura e Instalación",
+    "descripcion": "Instalaciones artísticas creadas con tubos de neón, explorando el texto y la forma.",
+    "imagen": "https://picsum.photos/400/300?random=36",
+    "x": 110.1,
+    "y": 340.0
+  },
+  {
+    "id": "OVC-037",
+    "nombre": "La Memoria del Objeto",
+    "autores": ["Inés Soler"],
+    "categoria": "Escultura e Instalación",
+    "descripcion": "Obras creadas a partir de objetos encontrados, dándoles una nueva vida y significado.",
+    "imagen": "https://picsum.photos/400/300?random=37",
+    "x": 220.6,
+    "y": 150.7
+  },
+  {
+    "id": "OVC-038",
+    "nombre": "Sonidos del Silencio",
+    "autores": ["Arturo Vidal"],
+    "categoria": "Arte Sonoro y Musical",
+    "descripcion": "Música que desafía las convenciones, explorando la ausencia de sonido y el ruido.",
+    "imagen": "https://picsum.photos/400/300?random=38",
+    "x": 330.9,
+    "y": 480.2
+  },
+  {
+    "id": "OVC-039",
+    "nombre": "Visiones Etéreas",
+    "autores": ["Marina Cruz"],
+    "categoria": "Pintura y Dibujo",
+    "descripcion": "Obras que exploran la luz y el color en composiciones no figurativas.",
+    "imagen": "https://picsum.photos/400/300?random=39",
+    "x": 460.4,
+    "y": 100.3
+  },
+  {
+    "id": "OVC-040",
+    "nombre": "El Pulso del Tiempo",
+    "autores": ["Óscar Martín"],
+    "categoria": "Escultura e Instalación",
+    "descripcion": "Creaciones que reinterpretan la función del reloj, explorando el concepto del tiempo.",
+    "imagen": "https://picsum.photos/400/300?random=40",
+    "x": 70.2,
+    "y": 60.8
+  },
+  {
+    "id": "OVC-041",
+    "nombre": "Jardines Efímeros",
+    "autores": ["Pilar Gil"],
+    "categoria": "Arte Social y Participativo",
+    "descripcion": "Instalaciones temporales creadas con flores y elementos naturales perecederos.",
+    "imagen": "https://picsum.photos/400/300?random=41",
+    "x": 160.8,
+    "y": 290.1
+  },
+  {
+    "id": "OVC-042",
+    "nombre": "El Viaje Interior",
+    "autores": ["Roberto Sanz"],
+    "categoria": "Pintura y Dibujo",
+    "descripcion": "Dibujos creados de forma espontánea, explorando el subconsciente.",
+    "imagen": "https://picsum.photos/400/300?random=42",
+    "x": 250.3,
+    "y": 410.7
+  },
+  {
+    "id": "OVC-043",
+    "nombre": "Fragmentos de Luz",
+    "autores": ["Sofía Bravo"],
+    "categoria": "Fotografía",
+    "descripcion": "Imágenes capturadas con cámaras de orificio, logrando efectos de ensueño.",
+    "imagen": "https://picsum.photos/400/300?random=43",
+    "x": 370.0,
+    "y": 140.4
+  },
+  {
+    "id": "OVC-044",
+    "nombre": "Respiración de la Tierra",
+    "autores": ["Colectivo Raíz"],
+    "categoria": "Arte Social y Participativo",
+    "descripcion": "Intervenciones artísticas en el paisaje, utilizando elementos naturales del entorno.",
+    "imagen": "https://picsum.photos/400/300?random=44",
+    "x": 490.5,
+    "y": 360.9
+  },
+  {
+    "id": "OVC-045",
+    "nombre": "El Susurro del Vacio",
+    "autores": ["Elena Pastor"],
+    "categoria": "Escultura e Instalación",
+    "descripcion": "Obras que utilizan el espacio negativo y la simplicidad para evocar sensaciones.",
+    "imagen": "https://picsum.photos/400/300?random=45",
+    "x": 80.9,
+    "y": 210.0
+  },
+  {
+    "id": "OVC-046",
+    "nombre": "Conexiones Invisibles",
+    "autores": ["Pedro Sánchez"],
+    "categoria": "Escultura e Instalación",
+    "descripcion": "Obras que invitan a la participación del público, revelando conexiones ocultas.",
+    "imagen": "https://picsum.photos/400/300?random=46",
+    "x": 130.6,
+    "y": 180.5
+  },
+  {
+    "id": "OVC-047",
+    "nombre": "Historias en Silencio",
+    "autores": ["Julia Rivas"],
+    "categoria": "Escultura e Instalación",
+    "descripcion": "Esculturas que cuentan historias a través de sus formas y detalles.",
+    "imagen": "https://picsum.photos/400/300?random=47",
+    "x": 240.1,
+    "y": 500.0
+  },
+  {
+    "id": "OVC-048",
+    "nombre": "La Ciudad Resonante",
+    "autores": ["Carlos Mora"],
+    "categoria": "Arte Sonoro y Musical",
+    "descripcion": "Experiencias de escucha guiadas por la ciudad, enfocándose en los sonidos urbanos.",
+    "imagen": "https://picsum.photos/400/300?random=48",
+    "x": 350.2,
+    "y": 90.7
+  },
+  {
+    "id": "OVC-049",
+    "nombre": "Patrones de Luz",
+    "autores": ["Diana Soto"],
+    "categoria": "Fotografía",
+    "descripcion": "Fotografías que se centran en la luz y la sombra como elementos abstractos.",
+    "imagen": "https://picsum.photos/400/300?random=49",
+    "x": 470.8,
+    "y": 260.3
+  },
+  {
+    "id": "OVC-050",
+    "nombre": "El Aliento del Mar",
+    "autores": ["Raúl Castro"],
+    "categoria": "Arte Digital y Medios",
+    "descripcion": "Proyecciones de video que evocan la calma y el movimiento del océano.",
+    "imagen": "https://picsum.photos/400/300?random=50",
+    "x": 100.0,
+    "y": 370.0
+  }
+]
